@@ -14,6 +14,4 @@ return (on+wait)-cap
 return 0
 }
 
-
-
 }
