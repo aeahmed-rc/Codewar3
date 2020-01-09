@@ -20,14 +20,12 @@ function houseNumbersSum(inputArray) {
 const index = inputArray.indexOf(0)
 const empty =[]
 
+if(index === 0){
+  return 0
 
-if (index > -1) {
+}else if (index > -1) {
    inputArray.splice(index, inputArray.length);
-   if(inputArray !== empty){
-   console.log(inputArray)
-    return inputArray.reduce((a,b) => a+b)
-
-}
+     return inputArray.reduce((a,b) => a+b)
 }
 
 }
