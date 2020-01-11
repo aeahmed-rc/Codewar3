@@ -1,17 +1,11 @@
 function divide(weight){
-for (let i = 1 ; i < weight ; i++){
-  for( let j = 1; j < weight; j++){
- if(j+i === weight){
-    if(j % 2 ===0 && i % 2 ===0){
-  return true
-  }else{
-  return false
-   }
- }
+console.log(weight)
+if(weight % 2 ===0 && weight !==2){
+return true
+} else{
+return false
 }
-
-}
-}
+} 
 
 // param: numbers 1 to 100
 // return: a boolen true or false
