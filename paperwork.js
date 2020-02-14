@@ -6,4 +6,4 @@ let ans=0;
   ans=n*m
   }
   return ans
-}
+};
