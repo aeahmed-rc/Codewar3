@@ -7,4 +7,3 @@ function build (n){
     console.log(' '.repeat(s) + 'o'.repeat(w)+' '.repeat(s))
   }
 }
-build(10)
