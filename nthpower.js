@@ -10,5 +10,4 @@ console.log(square)
 return -1
 }
 }
-  //your code here
 }
