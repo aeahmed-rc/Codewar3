@@ -9,7 +9,5 @@ console.log(square)
 } else if (n > array.length){
 return -1
 }
-
-
 }
 }
