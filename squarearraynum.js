@@ -11,3 +11,5 @@ return -1
 }
 }
 }
+[1,2,3]
+n=2 so at 3 take that number an square it 
