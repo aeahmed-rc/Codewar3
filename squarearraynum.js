@@ -12,4 +12,6 @@ return -1
 }
 }
 [1,2,3]
-n=2 so at 3 take that number an square it 
+loop through the array everytime it loops increase number so we know how many loops it took
+then 
+n=2 so at 3 take that number an square it
