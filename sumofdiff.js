@@ -1,6 +1,4 @@
 Sum of differences in array
-
-
 function sumOfDifferences(arr) {
 arr.sort(function(a, b){return b-a});
 let sum=0
