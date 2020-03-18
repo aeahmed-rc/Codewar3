@@ -6,7 +6,6 @@ return true
 return false
 }
 } 
-
 // param: numbers 1 to 100
 // return: a boolen true or false
 // ex: weight=4 can be 1+3 or 2+2
