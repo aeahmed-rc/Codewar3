@@ -5,5 +5,4 @@ for(let i=0;i<numbers.length;i++){
 sum=sum + Math.pow(numbers[i],2)
 }
 return sum
-
 }
