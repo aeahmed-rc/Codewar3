@@ -1,7 +1,6 @@
 function sumDigits(number) {
 let abs = Math.abs(number)
 let array = [...abs+''].map(n => +n)
-
 let sum =0
 array.forEach(el =>{
 sum = sum +el
