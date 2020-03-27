@@ -5,7 +5,7 @@ console.log(strarr)
 for(let i=0;i<strarr.length;i++){
 if (letter=strarr[i]){
 num++
-}else if(letter !==strarr[i]){
+}elseif(letter !==strarr[i]){
 }
 }
 }
