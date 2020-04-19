@@ -5,3 +5,4 @@ if (a.includes(x)){
 return false
 }
 }
+// returned true or false based on what the array contained
