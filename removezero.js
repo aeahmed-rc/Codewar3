@@ -27,5 +27,4 @@ if(index === 0){
    inputArray.splice(index, inputArray.length);
      return inputArray.reduce((a,b) => a+b)
 }
-
 }
