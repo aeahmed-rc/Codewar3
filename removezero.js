@@ -13,7 +13,6 @@
 // [input] integer array inputArray
 //
 // Constraints: 5 ≤ inputArray.length ≤ 50, 0 ≤ inputArray[i] ≤ 10.
-//
 // [output] an integer
 function houseNumbersSum(inputArray) {
 const index = inputArray.indexOf(0)
