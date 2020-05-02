@@ -25,5 +25,5 @@ function getPlanetName(id){
     case 8:
       name = 'Neptune'
   }
-  return name;
+  return name
 }
