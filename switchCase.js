@@ -21,7 +21,7 @@ function getPlanetName(id){
       break;
     case 7:
       name = 'Uranus'
-      break;
+      break
     case 8:
       name = 'Neptune'
   }
