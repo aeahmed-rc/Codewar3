@@ -8,4 +8,4 @@ function abbrevName(name){
     }
     console.log(initials)
     return initials;
-  };
+  
