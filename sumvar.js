@@ -1,3 +1,4 @@
-let goals = [43, 10, 5],
-    [laLigaGoals, championsLeagueGoals, copaDelReyGoals] = goals,
-    totalGoals = laLigaGoals+championsLeagueGoals+copaDelReyGoals
+let  laLigaGoals = 43,
+ championsLeagueGoals = 10,
+ copaDelReyGoals = 5,
+  totalGoals = laLigaGoals+championsLeagueGoals+copaDelReyGoals
