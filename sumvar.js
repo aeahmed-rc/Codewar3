@@ -1,2 +1,2 @@
 let  laLigaGoals = 43,
- championsLeagueGoa
+ championsLeag
