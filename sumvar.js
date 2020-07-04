@@ -1,1 +1,1 @@
-let  laLigaGoals = 
+let  laLigaGoals
