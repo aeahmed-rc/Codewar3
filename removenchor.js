@@ -5,7 +5,7 @@ console.log(url)
 let rem='#'
 
 return url.split(rem,1)[0]
-// return url.slice(0,16)
+// return url.slice(
   // TODO: complete
 }
 // another way to do this
