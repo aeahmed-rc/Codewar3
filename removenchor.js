@@ -6,7 +6,7 @@ let rem='#'
 
 return url.split(rem,1)[0]
 // return url.s
-  // TODO: complete
+  // TODO: comple
 }
 // another way to do this
 // text = 'some string... this part will be removed.'
