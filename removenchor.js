@@ -1,4 +1,4 @@
-Remove anchor from URL
+ Remove anchor from URL
 
 function removeUrlAnchor(url){
 console.log(url)
@@ -13,4 +13,4 @@ return url.split(rem,1)[0]
 // head, sep, tail = text.partition('...')
 //
 // >>> print head
-// some string
+// some stri
