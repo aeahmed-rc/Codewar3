@@ -13,4 +13,3 @@ return url.split(rem,1)[0]
 // head, sep, tail = text.partition('...')
 //
 // >>> print he
-//
