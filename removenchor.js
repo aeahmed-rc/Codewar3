@@ -12,4 +12,4 @@ return url.split(rem,1)[0]
 // text = 'some string... this part will be removed.'
 // head, sep, tail = text.partition('...')
 //
-// >>> print he
+// >>> print h
