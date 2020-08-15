@@ -9,7 +9,7 @@
 // The answer was obtained as 5 + 1 + 2 + 3 = 11.
 
 // Input/Output
-// [input] inger array inputArray
+// [input] iger array inputArray
 // Constraints: 5 ≤ inputArray.length ≤ 50, 0 ≤ inputArray[i] ≤ 10.
 // [output] an integer
 function houseNumbersSum(inputArray) {
