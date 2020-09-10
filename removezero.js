@@ -7,7 +7,7 @@
 // Example
 // For inputArray = [5, 1, 2, 3, 0, 1, 5, 0, 2], the output should be 11.
 // The answer was obtained as 5 + 1 + 2 + 3 = 11
-// Input/O
+// Input/
 // array inputArray
 // Constraints: 5 ≤ inputArray.length ≤ 50, 0 ≤ inputArray[i] ≤ 10.
 // [output] an integer
