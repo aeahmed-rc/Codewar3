@@ -4,4 +4,4 @@ console.log(spl)
 console.log(Math.min(...spl))
 return Math.min(...spl)
 }
-// function to count the number of words in a string.
+// function to count the number of words in a string...
