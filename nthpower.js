@@ -11,3 +11,4 @@ return -1
 }
 }
 }
+// looping through array and set var to square root of each num in the array
