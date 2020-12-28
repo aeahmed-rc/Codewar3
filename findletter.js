@@ -9,4 +9,4 @@ num++
 }
 }
 }
-// counting number of strings in a word..
+// counting number of strings in a word...
